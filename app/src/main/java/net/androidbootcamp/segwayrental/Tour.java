@@ -10,5 +10,6 @@ public class Tour extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tour);
         //this is me testing
+        //this is me creating a branch
     }
 }
